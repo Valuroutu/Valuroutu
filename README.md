@@ -6,9 +6,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave"/>
   <h1>Hey there, I'm Valuroutu Santosh Kumar</h1>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Blockchain+Developer+%7C+AI+Engineer;MERN+Stack+%7C+Full+Stack+Web+Developer;Building+the+decentralized+future+with+AI+🚀" alt="Typing SVG" />
-  </a>
+ <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=AI+Engineer;ML+Engineer;GenAI+Developer;Blockchain+Developer;MERN+Stack+Developer;Full+Stack+Web+Developer" alt="Typing SVG" />
+</p>
 </div>
 
 <!-- SECTION B: ABOUT ME -->
