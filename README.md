@@ -127,7 +127,8 @@ I'm open to collaborations, freelance projects, and exciting opportunities in:
   <a href="https://www.linkedin.com/in/valuroutusantoshkumar" target="_blank">
     <img src="https://img.shields.io/badge/Reach%20me%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://santoshkumarportfolio.netlify.app/" target="_blank">
+  <!--<a href="https://santoshkumarportfolio.netlify.app/" target="_blank">-->
+    <a href=https://portfolio-eight-sepia-6242io7dy0.vercel.app/ target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
